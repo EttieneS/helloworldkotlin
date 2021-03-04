@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NeatWires</string>
+    <string name="bonoboButton">Bonobo Button</string>
+    <string name="toastButton">Toast!!</string>
+    <string name="toast_button">Toast!</string>
+    <string name="bonobo_view">View Bonobo</string>
+</resources>
